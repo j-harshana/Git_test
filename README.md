@@ -1,4 +1,4 @@
-##Git Learning Playground
+**Git Learning Playground**
 
 Welcome to this personal repository! This is your dedicated space to learn and practice Git and GitHub without any pressure. Feel free to experiment with commands, make mistakes, and learn from them. The goal is to build muscle memory and get comfortable with the core concepts of version control.
 
