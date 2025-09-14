@@ -55,7 +55,7 @@ Once you’ve nailed the basics, flex these **essential Git commands**:
 
 ## 📚 Resources
 
-Level up your Git game with these:
+Level up your Git game with these resources:
 
 * [Git Official Docs](https://git-scm.com/doc) – deep dive for every command.
 * [Git Immersion](http://gitimmersion.com/) – guided tour for hands-on learning.
